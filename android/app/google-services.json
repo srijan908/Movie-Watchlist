@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "596933228177",
+    "project_id": "movie-log-af946",
+    "storage_bucket": "movie-log-af946.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596933228177:android:29ac3c6306f179eea7b130",
+        "android_client_info": {
+          "package_name": "com.example.todo_app_firestore_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596933228177-hvs4auvs816075sa1bl9214ji30ncmmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMinLSny0-e7Lr9CCV7ymc2pFoMl-160s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596933228177-hvs4auvs816075sa1bl9214ji30ncmmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
